@@ -1,7 +1,7 @@
 #!/bin/bash
 
 REPOSITORY=/home/ec2-user/app/step2
-PROJECT_NAME=SprintBootFirst
+PROJECT_NAME=SpringBootFirst
 
 echo "> Copy build file"
 
